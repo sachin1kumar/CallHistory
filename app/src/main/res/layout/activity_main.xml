@@ -10,14 +10,7 @@
         android:id="@+id/recycler_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:scrollbars="vertical"
-        android:visibility="gone"/>
+        android:scrollbars="vertical" />
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Texting"
-        />
 
 </android.support.constraint.ConstraintLayout>
